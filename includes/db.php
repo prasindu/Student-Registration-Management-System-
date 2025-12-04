@@ -1,9 +1,9 @@
 <?php
 $host = "127.0.0.1"; // Using IP is often safer with custom ports
 $user = "root";
-$pass = "root";      // Matches your config.inc.php
+$pass = "";      // Matches your config.inc.php
 $dbname = "student_db";
-$port = 3307;        // Matches your config.inc.php
+$port = 3306;        // Matches your config.inc.php
 
 // Enable error reporting
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
