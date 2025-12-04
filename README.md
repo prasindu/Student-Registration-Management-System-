@@ -184,3 +184,14 @@ Developed using:
 
 **Version**: 1.0.0  
 **Last Updated**: December 2024# Student-Registration-Management-System-
+
+<img width="1919" height="917" alt="Screenshot 2025-12-04 113553" src="https://github.com/user-attachments/assets/3b45c028-48ca-430d-9cea-0e1c1d342b0d" />
+<img width="1919" height="916" alt="Screenshot 2025-12-04 113623" src="https://github.com/user-attachments/assets/d6242e45-9888-45f4-af27-74a25f786c4c" />
+<img width="1918" height="914" alt="Screenshot 2025-12-04 113635" src="https://github.com/user-attachments/assets/07f634b0-72c4-4190-9d6b-7653975d24f6" />
+<img width="1919" height="921" alt="Screenshot 2025-12-04 113648" src="https://github.com/user-attachments/assets/a9d2a18c-9a7c-4fb6-b818-ff2d57344be7" />
+<img width="1917" height="915" alt="Screenshot 2025-12-04 113704" src="https://github.com/user-attachments/assets/9092ef99-6982-4758-8b84-1fea48f17f85" />
+<img width="1919" height="915" alt="Screenshot 2025-12-04 113729" src="https://github.com/user-attachments/assets/83649a72-3f10-4dcb-8a2c-0d87cc96e40d" />
+
+
+
+
